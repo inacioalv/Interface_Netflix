@@ -13,7 +13,7 @@
 /* elemetos bases */
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -48,7 +48,7 @@ color: #fff;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%) ,url('/img/capa-house.jpg') no-repeat;
 
     /* img */
-    height: 600px;
+    height: 500px;
     background-size: cover;
 
     display: flex;
@@ -95,4 +95,14 @@ color: #fff;
 
 .filme-pricipal .container{
     width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 10px;
 }
