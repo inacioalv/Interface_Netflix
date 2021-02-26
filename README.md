@@ -19,11 +19,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML]
 - [CSS]
+- [JavaScript]
 
 
 ## 💻 Projeto
 
-Clone de login da Netflix
+Clone de tela home da Netflix
 
 
 
