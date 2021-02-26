@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Clone de tela home da Netflix
 
-
+<img alt="Moveit" src="img\home.png" />
 
 
