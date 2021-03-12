@@ -28,4 +28,8 @@ Clone de tela home da Netflix
 
 <img alt="Moveit" src="img\home.png" />
 
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
+
 
